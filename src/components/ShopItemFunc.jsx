@@ -3,6 +3,7 @@ export const ShopItemFunc = ( ) => {
         brand: "Tiger of Sweden",
         title: "Leonard coat",
         description: "Minimalistic coat in cotton-blend",
+        // eslint-disable-next-line no-useless-escape
         descriptionFull: "Men\'s minimalistic overcoat in cotton-blend. Features a stand-up collar, concealed front closure and single back vent. Slim fit with clean, straight shape. Above-knee length.",
         price: 399,
         currency: "£"
